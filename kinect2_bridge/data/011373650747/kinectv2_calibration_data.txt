@@ -1,0 +1,57 @@
+rgb
+[ INFO] [CameraCalibration::calibrateIntrinsics] re-projection error: 0.375529
+
+[ INFO] [CameraCalibration::calibrateIntrinsics] Camera Matrix:
+[1013.689130034326, 0, 980.2192834040984;
+  0, 1014.742028156142, 578.5404086423623;
+  0, 0, 1]
+[ INFO] [CameraCalibration::calibrateIntrinsics] Distortion Coeeficients:
+[-0.0642608202420812, -1.654591349313688, 0.01643486761279036, -0.004976320132749943, 8.636390879233085]
+d
+[ INFO] [CameraCalibration::calibrateIntrinsics] re-projection error: 0.126102
+
+[ INFO] [CameraCalibration::calibrateIntrinsics] Camera Matrix:
+[355.5700047821481, 0, 253.8986878691364;
+  0, 354.9597441929401, 223.5832166997652;
+  0, 0, 1]
+[ INFO] [CameraCalibration::calibrateIntrinsics] Distortion Coeeficients:
+[-0.731539667863043, 25.62354612010535, 0.02893089407846228, -0.00205244856577987, -270.2817085058706]
+[ INFO] [CameraCalibration::calibrateExtrinsics] Camera Matrix Color:
+[1013.689130034326, 0, 980.2192834040984;
+  0, 1014.742028156142, 578.5404086423623;
+  0, 0, 1]
+[ INFO] [CameraCalibration::calibrateExtrinsics] Distortion Coeeficients Color:
+[-0.0642608202420812, -1.654591349313688, 0.01643486761279036, -0.004976320132749943, 8.636390879233085]
+
+[ INFO] [CameraCalibration::calibrateExtrinsics] Camera Matrix Ir:
+[355.5700047821481, 0, 253.8986878691364;
+  0, 354.9597441929401, 223.5832166997652;
+  0, 0, 1]
+[ INFO] [CameraCalibration::calibrateExtrinsics] Distortion Coeeficients Ir:
+[-0.731539667863043, 25.62354612010535, 0.02893089407846228, -0.00205244856577987, -270.2817085058706]
+
+[ INFO] [CameraCalibration::calibrateExtrinsics] calibrating Color and Ir extrinsics...
+[ INFO] [CameraCalibration::calibrateExtrinsics] re-projection error: 0.284719
+
+[ INFO] [CameraCalibration::calibrateExtrinsics] Rotation:
+[0.9998562626080034, -0.002055904630675717, -0.0168293606445678;
+  0.002155587073873119, 0.9999802294237943, 0.005907131783076698;
+  0.01681688341882385, -0.005942559859626985, 0.9998409265550158]
+[ INFO] [CameraCalibration::calibrateExtrinsics] Translation:
+[-0.05122347870527821; -0.0002089124992939537; -0.009948698266455395]
+[ INFO] [CameraCalibration::calibrateExtrinsics] Essential:
+[1.793202823967361e-05, 0.009949743049990649, -0.000150110995132972;
+  -0.009085848996819544, -0.0002839450135892429, 0.05138276064112666;
+  9.846580218023702e-05, -0.05122289549176366, -0.0003060997028934773]
+[ INFO] [CameraCalibration::calibrateExtrinsics] Fundamental:
+[9.930755024515035e-09, 5.519639764660368e-06, -0.001266179269552218;
+  -5.026521107884543e-06, -1.573556195019845e-07, 0.01141892774656897;
+  0.002953588080357488, -0.03412441436106622, 1]
+ stats on difference:
+     avg: -0.0529187
+     var: 5.94939e-05
+  stddev: 0.00771323
+     rms: 0.0534779
+  median: -0.0524525
+
+
